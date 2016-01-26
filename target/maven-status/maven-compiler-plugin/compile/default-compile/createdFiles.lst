@@ -1,0 +1,5 @@
+ru\stepanian\calc\MyFrameGUI.class
+ru\stepanian\calc\CalculatorListener.class
+ru\stepanian\calc\StartCalculator.class
+ru\stepanian\calc\Operations.class
+ru\stepanian\calc\CalcFieldsFocusListener.class
