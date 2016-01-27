@@ -1,6 +1,6 @@
-# Simple-Calculator
+  Simple-Calculator
 
-Simple Java SE Project
+- Simple Java SE Project
 - IDEA
 - Spring
 - Maven
