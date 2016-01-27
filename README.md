@@ -2,5 +2,4 @@
 
 - Simple Java SE Project
 - IDEA
-- Spring
 - Maven
